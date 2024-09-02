@@ -1,0 +1,15 @@
+project_dir/
+app/
+app.py
+models/
+requirements.txt
+streamlit_app/
+app.py
+templates/
+base.html
+index.html
+static/
+styles.css
+uploads/
+.gitignore
+README.md
